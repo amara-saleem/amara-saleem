@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amara-saleem
 - 👀 I’m interested in C/C++, MATLAB, Sql coding.
 - 🌱 I’m currently learning database management and software design and architecture.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with you on various projects.
 - 📫 you may contact me at  amarasaleem10118@gmail.com
 
 <!---
